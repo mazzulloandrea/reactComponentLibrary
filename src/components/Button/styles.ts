@@ -1,6 +1,5 @@
 import tw from 'tailwind-styled-components';
 import { ButtonProps } from './Button';
-import '../../global.css';
 
 const defaultProps = 'font-semibold py-2 px-4 border rounded shadow';
 
